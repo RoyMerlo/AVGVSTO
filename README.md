@@ -1,5 +1,6 @@
 
-![AVGVSTOEN](https://github.com/user-attachments/assets/5714fe3f-1f21-45cb-8d08-7a5755e8bb12)
+![AVGVSTOEN2](https://github.com/user-attachments/assets/b9956f46-da28-4ca3-a994-4ba953b68294)
+
 
 
 🛡️ AVGVSTO - Advanced Security Suite with USB Binding 
