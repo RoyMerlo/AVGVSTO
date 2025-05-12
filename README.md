@@ -1,7 +1,8 @@
 
 
 
-![20250512_2249_Pubblicità Software AVGVSTO_simple_compose_01jv3437v5e4tsxx0e0y14634f](https://github.com/user-attachments/assets/e2bfa394-8d84-4f66-b661-7c06e057ab4c)
+
+![20250512_2249_Pubblicità Software AVGVSTO_simple_compose_01jv3437v4f7w9ne85ds1b95wa](https://github.com/user-attachments/assets/d7a9743b-6077-438a-8722-3b94115566c2)
 
 
 
