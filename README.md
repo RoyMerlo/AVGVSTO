@@ -2,10 +2,11 @@
 
 
 
-![20250512_2249_Pubblicità Software AVGVSTO_simple_compose_01jv3437v4f7w9ne85ds1b95wa](https://github.com/user-attachments/assets/d7a9743b-6077-438a-8722-3b94115566c2)
 
 
 
+
+![20250512_2311_Pubblicità Innovativa AVGVSTO_simple_compose_01jv35b41cfb9rt2xwwmafwbv8](https://github.com/user-attachments/assets/fa591370-a562-40ef-a9c1-343aa328f881)
 
 
 
