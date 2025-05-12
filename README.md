@@ -1,5 +1,11 @@
 
-![augustobuona1](https://github.com/user-attachments/assets/6b161a08-4783-4acf-8407-143391ddcc6a)
+
+
+![20250512_2249_Pubblicità Software AVGVSTO_simple_compose_01jv3437v5e4tsxx0e0y14634f](https://github.com/user-attachments/assets/e2bfa394-8d84-4f66-b661-7c06e057ab4c)
+
+![Uploading 20250512_2249_Pubblicità Software AVGVSTO_simple_compose_01jv3437v3e4bb48b2y4mfmfx2.png…]()
+
+
 
 
 ![AVGVSTOEN2](https://github.com/user-attachments/assets/b9956f46-da28-4ca3-a994-4ba953b68294)
