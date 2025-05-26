@@ -37,12 +37,8 @@ AVGVSTO  is a Python-based encryption tool that binds sensitive data to a physic
     Dependencies :  
     bash
      
-
-     
     1
     pip install pycryptodome psutil
-     
-     
     OS Support :
     Windows, Linux, macOS (USB detection optimized for Windows and Unix-like systems).
     GUI :
@@ -51,13 +47,6 @@ AVGVSTO  is a Python-based encryption tool that binds sensitive data to a physic
 
 📦 Project Structure 
  
- 
-1
-2
-3
-4
-5
-6
 AVGVSTO/
 ├── AVGVSTO.py              # Main application (GUI + logic)
 ├── usb_secure.key          # Stores the authorized USB drive's unique ID
@@ -71,10 +60,6 @@ AVGVSTO/
     Clone the Repository    
     bash
      
-
- 
-1
-2
 git clone https://github.com/your-username/AVGVSTO.git
 cd AVGVSTO
  
@@ -83,18 +68,14 @@ cd AVGVSTO
 Install Dependencies    
 bash
  
- 
-1
 pip install -r requirements.txt
  
- 
-
 Run the Application    
 bash
  
 
      
-    1
+    
     python AVGVSTO.py
      
      
