@@ -37,7 +37,6 @@ AVGVSTO  is a Python-based encryption tool that binds sensitive data to a physic
     Dependencies :  
     bash
      
-    1
     pip install pycryptodome psutil
     OS Support :
     Windows, Linux, macOS (USB detection optimized for Windows and Unix-like systems).
