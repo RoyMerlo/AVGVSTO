@@ -7,7 +7,8 @@
 
 
 
-![ChatGPT Image Jun 5, 2025, 02_05_42 AM](https://github.com/user-attachments/assets/a0957fc2-4b1d-4204-97f7-2dc2369e079c)
+![Uploading 20250512_2311_Pubblicità Innovativa AVGVSTO_simple_compose_01jv35b41cfb9rt2xwwmafwbv8.png…]()
+
 
 
 
