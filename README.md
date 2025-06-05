@@ -8,10 +8,7 @@
 
 
 
-
-
-![Uploading 20250512_2311_Pubblicità Innovativa AVGVSTO_simple_compose_01jv35b41cfb9rt2xwwmafwbv8.png…]()
-
+![20250512_2311_Pubblicità Innovativa AVGVSTO_simple_compose_01jv35b41cfb9rt2xwwmafwbv8](https://github.com/user-attachments/assets/2575113a-f4b8-4fdf-933d-a5da15f681ac)
 
 
 ![AVGVSTOEN2](https://github.com/user-attachments/assets/b9956f46-da28-4ca3-a994-4ba953b68294)
