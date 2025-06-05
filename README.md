@@ -7,13 +7,14 @@
 
 
 
+![ChatGPT Image Jun 5, 2025, 02_05_42 AM](https://github.com/user-attachments/assets/a0957fc2-4b1d-4204-97f7-2dc2369e079c)
 
 
 
 
 ![AVGVSTOEN2](https://github.com/user-attachments/assets/b9956f46-da28-4ca3-a994-4ba953b68294)
 
-![20250605_0221_Manifesto con Logo_remix_01jwyqazw0em099wnxgspgq6k8](https://github.com/user-attachments/assets/19c5b37a-9866-4839-80dc-0ab9b55ade4d)
+
 
 
 🛡️ AVGVSTO - Advanced Security Suite with USB Binding 
