@@ -1,6 +1,7 @@
 
+![defavg](https://github.com/user-attachments/assets/3a4af588-56fb-48e3-82c1-c32dfd0e5a56)
 
-![HIT](https://github.com/user-attachments/assets/6ef639bf-f2cd-40c8-bf51-fce3ffdcbb54)
+
 
 
 
