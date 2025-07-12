@@ -1,10 +1,11 @@
 
 
+![defavVg](https://github.com/user-attachments/assets/7b462e71-44ab-4684-9fde-6189828b598e)
 
 
 
 
-![20250607_0152_Logo 3D AVGVSTO_remix_01jx3tg80we7m8j3r8p39xg4n2](https://github.com/user-attachments/assets/1e24c8c6-0968-4daa-bbb8-bbd975f45618)
+
 
 
 
