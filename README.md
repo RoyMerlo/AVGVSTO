@@ -1,7 +1,8 @@
 
 
 
-![definitivaavgvstooo_150x150](https://github.com/user-attachments/assets/1b6192f5-4265-4fe8-8a57-63b49f0c6b8f)
+![defavg](https://github.com/user-attachments/assets/9f827528-a032-4486-9587-5792335b03f6)
+
 
 
 
