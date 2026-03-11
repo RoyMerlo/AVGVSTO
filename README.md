@@ -1,4 +1,5 @@
 ![defavg](images/avg1.gif)
+![defavg](avgvsto0.png)
 ![defavg1](images/avgvsto3.gif)
 ![defavg2](images/avgvusto1.gif)
 ![defavg3](images/avgvsto2.gif)
