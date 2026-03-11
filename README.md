@@ -1,7 +1,7 @@
 
 
 
-![defavg](https://github.com/user-attachments/assets/9f827528-a032-4486-9587-5792335b03f6)
+![defavg](https://i.ibb.co/V0QRW0qK/avg1.gif)
 
 
 
