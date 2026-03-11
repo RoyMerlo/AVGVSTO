@@ -16,7 +16,12 @@
 
 
 ![AVGVSTOEN2]([https://github.com/user-attachments/assets/b9956f46-da28-4ca3-a994-4ba953b68294](https://i.ibb.co/rfy2N9Zq/avgvsto3.gif)
+
+
 ![AVGVSTOEN2]([https://github.com/user-attachments/assets/b9956f46-da28-4ca3-a994-4ba953b68294](https://i.ibb.co/Z0xMdLk/avgvusto1.gif)
+
+
+
 ![AVGVSTOEN2]([https://github.com/user-attachments/assets/b9956f46-da28-4ca3-a994-4ba953b68294](https://i.ibb.co/vC0Bn4N3/avgvsto2.gif)
 
 
