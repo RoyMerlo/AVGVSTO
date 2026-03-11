@@ -1,7 +1,7 @@
 
 
 
-![defavg](https://i.ibb.co/V0QRW0qK/avg1.gif)
+                           ![defavg](https://i.ibb.co/V0QRW0qK/avg1.gif)
 
 
 
