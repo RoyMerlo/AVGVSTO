@@ -1,26 +1,7 @@
-
-
-
-![defavg](https://i.ibb.co/V0QRW0qK/avg1.gif)
-
-
-
-
-
-
-
-
-
-
-
-
-![defavg1](https://i.ibb.co/rfy2N9Zq/avgvsto3.gif)
-
-![defavg2](https://i.ibb.co/Z0xMdLk/avgvusto1.gif)
-
-![defavg3](https://i.ibb.co/vC0Bn4N3/avgvsto2.gif)
-
-
+![defavg](images/avg1.gif)
+![defavg1](images/avgvsto3.gif)
+![defavg2](images/avgvusto1.gif)
+![defavg3](images/avgvsto2.gif)
 
 
 
